@@ -1,0 +1,441 @@
+plane: [] San Francisco [] Tokyo         [] 1 [] Airbus A-1784
+seat: [] false [] William [] Cheng [] william.cheng2@student.tdsb.on.ca [] 647-809-8838 [] 17/10/2004
+seat: [] true
+seat: [] true
+seat: [] false [] Jing [] Wang [] jing.wang@student.tdsb.on.ca [] 264-845-8246 [] 23/07/2004
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] Stockholm     [] 1 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] false [] Daniel [] Johannes [] danujoh31@gmail.com [] 416-911-6969 [] 31/08/2004
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] San Francisco [] 2 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] Stockholm     [] 3 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] San Francisco [] Tokyo         [] 4 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] San Francisco [] 5 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] San Francisco [] Stockholm     [] 6 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] San Francisco [] 6 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] Tokyo         [] 7 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] San Francisco [] Stockholm     [] 8 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] San Francisco [] 9 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] Tokyo         [] 10 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] San Francisco [] Stockholm     [] 11 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] Stockholm     [] 12 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] Tokyo         [] 13 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] San Francisco [] 13 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] Stockholm     [] 14 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] San Francisco [] Tokyo         [] 14 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] San Francisco [] 16 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] Stockholm     [] 17 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] San Francisco [] Stockholm     [] 18 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] San Francisco [] 19 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] San Francisco [] 20 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] San Francisco [] Tokyo         [] 20 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] Stockholm     [] 21 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] San Francisco [] Tokyo         [] 22 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] Stockholm     [] 24 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] San Francisco [] 24 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] San Francisco [] Tokyo         [] 25 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] Tokyo         [] 26 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] Stockholm     [] 26 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] San Francisco [] 27 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] San Francisco [] Tokyo         [] 28 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] Tokyo         [] 28 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] Stockholm     [] 29 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Tokyo         [] San Francisco [] 29 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] San Francisco [] 30 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] San Francisco [] Stockholm     [] 30 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] San Francisco [] Tokyo         [] 31 [] Airbus A-1784
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+plane: [] Stockholm     [] Tokyo         [] 31 [] Boeing B-1596
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+seat: [] true
+END OF FILE
